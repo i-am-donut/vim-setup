@@ -1,0 +1,7 @@
+require('pre-settings')
+require('plugins')
+require('keymap')
+require('treesitter-settings')
+require('themes')
+require('barbar-config')
+require('lsp/lspconfig')
